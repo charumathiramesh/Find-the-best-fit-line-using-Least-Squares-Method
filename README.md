@@ -42,7 +42,7 @@ Y_pred=m*X+b
 print(Y_pred)
 plt.scatter(X,Y,color='blue')
 plt.plot(X,Y_pred,color='yellow') 
-plt.show()
+plt.show() 
 ```
 ## Output:
 ![download](https://github.com/charumathiramesh/Find-the-best-fit-line-using-Least-Squares-Method/assets/120204455/ac0d5c7d-7f86-437b-9f36-3ea16419d609)
