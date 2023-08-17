@@ -18,7 +18,7 @@ To implement univariate Linear Regression to fit a straight line using least squ
 
 ## Program:
 ```
-/*
+
 Developed by: Charumathi R
 RegisterNumber: 212222240021
 
@@ -44,7 +44,6 @@ print(Y_pred)
 plt.scatter(X,Y,color='blue')
 plt.plot(X,Y_pred,color='yellow') 
 plt.show()
-*/
 ```
 
 ## Output:
